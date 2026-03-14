@@ -4,7 +4,7 @@ Built Linear regression from scratch using Numpy
 This projects predicts The house Prices based on House size By Trained on existing Data.
 <br>
 I have built a model who found the weights & bias value from the house size & price data, 
-Then I Have predicted house predicted price = House size * weights + bias
+Then I Have predicted <br> predicted price = House size * weights + bias
 <br>
 Also count Loss = Loss = mean of (predicted price - original price) squared
 <br>
